@@ -73,7 +73,3 @@ jupyter notebook "Bitcoin_price_prediction(v3).ipynb"
 ## ⚖️ Disclaimer
 
 This repository is for **educational and research purposes only**. Nothing here constitutes investment or financial advice.
-
-```
-
-```
